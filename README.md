@@ -1,0 +1,2 @@
+# js-miniproject
+miniproject
